@@ -6,8 +6,8 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 Jan 2017 14:13:37 +0800</pubDate>
-    <lastBuildDate>Sun, 15 Jan 2017 14:13:37 +0800</lastBuildDate>
+    <pubDate>Sun, 15 Jan 2017 16:28:19 +0800</pubDate>
+    <lastBuildDate>Sun, 15 Jan 2017 16:28:19 +0800</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -56,8 +56,8 @@ Thank you for #2.
 
 </description>
         <pubDate>Sat, 04 Jun 2016 05:00:00 +0800</pubDate>
-        <link>/fromrobin/a-loveletter.html</link>
-        <guid isPermaLink="true">/fromrobin/a-loveletter.html</guid>
+        <link>/fromrobin/2016/06/04/a-loveletter/</link>
+        <guid isPermaLink="true">/fromrobin/2016/06/04/a-loveletter/</guid>
         
         
         <category>fromrobin</category>

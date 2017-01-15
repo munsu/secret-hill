@@ -2111,6 +2111,7 @@
 
 		ul li {
 			padding-left: 0.5em;
+			list-style-type: none;
 		}
 
 		ul.alt {

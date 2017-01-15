@@ -13,7 +13,12 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: telleeehhh
 facebook_username:  thepatronus
-permalink: none
+permalink: /:categories/:year/:month/:day/:title/
 
 # Build settings
 markdown: kramdown
+
+# Categories
+fromrobinurl: /fromrobin/
+travelsurl: /travels/
+wordsurl: /words/
