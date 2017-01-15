@@ -2,4 +2,4 @@ deployment:
   push_to_server:
     branch: master
     commands:
-      - rsync -avz _site/ circleci@188.166.215.181:/webapps/secret-hill-ci
+      - rsync -avz _site circleci@188.166.215.181:/webapps/secret-hill-ci
