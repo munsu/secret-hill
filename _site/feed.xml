@@ -6,9 +6,24 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 Jan 2017 16:28:19 +0800</pubDate>
-    <lastBuildDate>Sun, 15 Jan 2017 16:28:19 +0800</lastBuildDate>
+    <pubDate>Mon, 16 Jan 2017 19:24:52 +0800</pubDate>
+    <lastBuildDate>Mon, 16 Jan 2017 19:24:52 +0800</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>“Snow Experience“</title>
+        <description>&lt;h2 id=&quot;mango-cheese&quot;&gt;&lt;em&gt;Mango cheese&lt;/em&gt;&lt;/h2&gt;
+
+&lt;p&gt;This is a test blog while we eat our bingsu 🍧&lt;/p&gt;
+</description>
+        <pubDate>Mon, 16 Jan 2017 07:08:00 +0800</pubDate>
+        <link>/words/2017/01/16/snow-experience/</link>
+        <guid isPermaLink="true">/words/2017/01/16/snow-experience/</guid>
+        
+        
+        <category>words</category>
+        
+      </item>
     
       <item>
         <title>A love letter</title>
